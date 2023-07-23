@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://www.abhisheksrivastav.in](https://www.abhisheksrivastav.in)
+- 👨‍💻 Take a look at my portfolio [https://www.abhisheksrivastav.in](https://www.abhisheksrivastav.in)
 
-- 💬 Ask me about **React.js, JavaScript, Front-End**
+- 💬 Ask me about **React.js, JavaScript, Front-End Development**
 
 - 📫 How to reach me **abhisheksrivastavx@gmail.com**
 
