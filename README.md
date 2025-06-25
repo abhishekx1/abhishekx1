@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👨‍💻 Take a look at my portfolio [https://www.abhisheksrivastav.in](https://www.abhisheksrivastav.in)
+- 👨‍💻 Take a look at my portfolio [https://www.abhisheksrivastav.in](https://abhishekx1.github.io/My-Portfolio/)
 
 - 💬 Ask me about **React.js, JavaScript, Front-End Development**
 
 - 📫 How to reach me **abhisheksrivastavx@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y-zy-PTK-mJWG6gOWdsVPvWpaVvJqubz/view?usp=sharing](https://drive.google.com/file/d/1Y-zy-PTK-mJWG6gOWdsVPvWpaVvJqubz/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gyHt3nr-cKwdnBH9594mbos3rtochNV9/view](https://drive.google.com/file/d/1gyHt3nr-cKwdnBH9594mbos3rtochNV9/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
