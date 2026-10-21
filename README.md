@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/abhisheksrivastavx" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[https://www.abhisheksrivastav.in](https://portfolio-iota-brown-96.vercel.app/)" target="_blank">
+  <a href="https://portfolio-iota-brown-96.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:abhisheksrivastavx@gmail.com">
@@ -146,7 +146,7 @@ Frontend Software Developer with **3+ years of experience** engineering scalable
   <a href="https://linkedin.com/in/abhisheksrivastavx" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="32" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.abhisheksrivastav.in" target="_blank">
+  <a href="https://portfolio-iota-brown-96.vercel.app" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Portfolio" height="32" width="32" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:abhisheksrivastavx@gmail.com">
